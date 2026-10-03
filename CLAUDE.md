@@ -44,4 +44,4 @@ Read these before proposing or scoring anything; they supersede earlier assumpti
 ## Working conventions
 
 - Language of replies is Russian; notes and Linear text have been written in English, code and identifiers always in English.
-- Nothing has been committed. Commit only when the user asks. `notes/` contains supervisors' names and sheet row numbers, so decide whether to ignore it if the repo ever becomes public.
+- Commit only when the user asks. `notes/`, `Diploma-work-requirements/` and the sheet CSV are gitignored and stay local (`notes/` contains supervisors' names and sheet row numbers), so the notes are not versioned: back them up separately.
